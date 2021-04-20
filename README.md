@@ -1,8 +1,8 @@
-# dkfajdlkfadf
+# ONLINE BOOKING SYSTEM
 ## Table of Contents
 1. [Introduction](#Introduction)
 2. [UI](#Online-Booking-Systems-UI)
-3. [Program Running](#Program-running)
+3. [Instructions](#Instructions)
 4. [Installation](#Installation)
 5. [Instructions](#Instructions)
 6. [License](#License)
@@ -10,13 +10,12 @@
 V2 of my digital measures project allows the user to specify the required changes that need to be applied to the file! This is a simple and easy to use csv converter that I made for the administrations office at my school. They can use this to convert the headers and the class names with a couple button presses as opposed to changing thousands of lines by hand.
 ### Online Booking System UI
 ![Website](https://github.com/ChavezPaulina/testingCap/blob/main/Website.PNG)  
-### Program running
+### Program Running
 ![running](https://github.com/ryangriggs1/Digital-Measures-V2/blob/main/PNGandGIF/running.gif)
-### Installation
-* Open the "Digital Setup" folder
-* Open the "Debug" folder
-* run "setup.exe"
-* The application should now installed. There should be a shorcut on the desktop called "DMv.2"
+### Instructions/SetUP
+* Download excel sheet "BOOKING SYSTEM.xlsx" 
+* Save excel sheet to google drive to convert it to google sheets
+* google form link :  https://docs.google.com/forms/d/1XDEJH1JsEIhFmPkYENIc7QSB5LDtbF-zHnoCX6ItWHY/edit?usp=sharing
 ### Instructions
 * Either run the setup.exe and make an application or open up "Digital Measures.sln" in Visual Studio and hit the start button at the top of the screen.
 * First you'll want to click "Replacement Values" and select the csv file that holds your replacement values.
