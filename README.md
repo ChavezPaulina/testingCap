@@ -3,25 +3,20 @@
 1. [Introduction](#Introduction)
 2. [UI](#Online-Booking-Systems-UI)
 3. [Instructions](#Instructions)
-4. [Installation](#Installation)
-5. [Instructions](#Instructions)
-6. [License](#License)
+4. [Publish to WEB](#How-To-Publish-To-WEB)
+5. [License](#License)
 ### Introduction
-V2 of my digital measures project allows the user to specify the required changes that need to be applied to the file! This is a simple and easy to use csv converter that I made for the administrations office at my school. They can use this to convert the headers and the class names with a couple button presses as opposed to changing thousands of lines by hand.
+Online Booking System uses Google Sheets and Google Forms to create an Online Reservation System. A user is prompted to enter an email address, First and Last name, Class day and time, as well as theri choice of seat. 
 ### Online Booking System UI
-![Website](https://github.com/ChavezPaulina/testingCap/blob/main/Website.PNG)  
+![Website](https://github.com/ChavezPaulina/testingCap/blob/main/Visuals/Website.PNG)  
 ### Program Running
 ![running](https://github.com/ryangriggs1/Digital-Measures-V2/blob/main/PNGandGIF/running.gif)
 ### Instructions/SetUP
-* Download excel sheet "BOOKING SYSTEM.xlsx" 
-* Save excel sheet to google drive to convert it to google sheets
+* Download Excel Sheet "BOOKING SYSTEM.xlsx".
+* Save Excel Sheet to Google Drive to convert it to Google Sheets.
 * google form link :  https://docs.google.com/forms/d/1XDEJH1JsEIhFmPkYENIc7QSB5LDtbF-zHnoCX6ItWHY/edit?usp=sharing
-### Instructions
-* Either run the setup.exe and make an application or open up "Digital Measures.sln" in Visual Studio and hit the start button at the top of the screen.
-* First you'll want to click "Replacement Values" and select the csv file that holds your replacement values.
-* Next, click "Open File" and choose the file that has the values you want to replace.
-* After that, click "File Destination" and select the location as well as the name you want your file to be saved as.
-* Finally, hit "Convert Button" and wait for your file to be created.
-* Additionally, you can click "Clear" and convert more files or click "Done" and the applicaiton will close.
+* Double check Google Sheet is linked with Google Form.
+### How To Publish To WEB
+- [How To Publis To Web](HowToPublishToWeb/)
+*
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ryangriggs1/Digital-Measures-V2/blob/main/LICENSE) file for details
