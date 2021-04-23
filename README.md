@@ -7,7 +7,7 @@
 5. [License](#License)
 ### Introduction
 Online Booking System uses Google Sheets and Google Forms to create an Online Reservation System.
-A user is prompted to enter an email address, First and Last name, Class day and time, as well as their seat choice. A Google Script Add-on was created to allow the admin to print the spreadsheet as a PDF so they can also have a hard copy. 
+A user is prompted to enter an email address, First and Last name, Class day and time, as well as their seat choice. 
 ### Online Booking System UI
 ![Website](https://github.com/ChavezPaulina/testingCap/blob/main/Visuals/Website.PNG)  
 
